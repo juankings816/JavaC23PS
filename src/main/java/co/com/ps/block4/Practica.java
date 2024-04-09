@@ -8,5 +8,8 @@ public class Practica {
     public static void main(String[] args) {
 
         List<String> palabras = Arrays.asList("hola", "adiós", "hasta luego", "hasta pronto");
+
+        for (String palabra : palabras){
+        }
     }
 }
