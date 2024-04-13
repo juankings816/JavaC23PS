@@ -14,7 +14,6 @@ public class TrabajoEnClase {
     String materialHerramienta;
 
     public void guardarHerramienta(){
-
     }
     public void sacarHerramienta(){
 
